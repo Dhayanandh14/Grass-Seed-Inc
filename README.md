@@ -1,1 +1,1 @@
-# Grass-Seed-Inc
+#[Grass-Seed-Inc](https://open.kattis.com/problems/grassseed)
